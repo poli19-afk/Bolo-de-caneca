@@ -1,0 +1,66 @@
+/* Estilo geral */
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    background-color: #eaf7ff; /* Fundo azul claro */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Garante que o rodapé ficará no fundo */
+}
+
+/* Cabeçalho */
+header {
+    background-color: #4a90e2; /* Azul claro */
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    color: white;
+    font-size: 3rem;
+    margin: 0;
+}
+
+/* Conteúdo Principal */
+main {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+    background-color: #a1d6a4; /* Verde claro */
+    border-radius: 8px;
+    flex: 1; /* Faz o conteúdo ocupar o espaço disponível */
+}
+
+.titulo {
+    color: white;
+    font-size: 2rem;
+    margin-bottom: 10px;
+    border-bottom: 2px solid white;
+}
+
+ul, ol {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li, ol li {
+    font-size: 1.2rem;
+    color: #333;
+    margin: 10px 0;
+}
+
+/* Rodapé */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #4a90e2; /* Azul claro */
+    color: white;
+    font-size: 0.9rem;
+    margin-top: auto; /* Garante que o rodapé vai para o fundo */
+}
+
+footer p {
+    margin: 0;
+}
