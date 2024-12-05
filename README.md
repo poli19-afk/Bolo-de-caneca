@@ -12,12 +12,12 @@ As funcionalidades que serão implementadas no projeto incluem:
 
 ## Cronograma de Desenvolvimento
 
-- Planejamento e Estruturação	Definição da estrutura HTML e planejamento das funcionalidades.	05/12/2024
-- Desenvolvimento do HTML	Criação da estrutura HTML da página, incluindo ingredientes e preparo.	07/12/2024
-- Desenvolvimento do CSS	Estilização da página com as cores azul e verde, e layout responsivo.	09/12/2024
-- Implementação do JavaScript	Criação do arquivo data.js para carregar a receita dinamicamente.	11/12/2024
-- Testes e Ajustes Finais	Testar a responsividade e corrigir erros de layout e funcionalidade.	13/12/2024
-- Documentação e Deploy	Criar o arquivo README.md e finalizar o projeto para publicação.	15/12/2024
+- Planejamento e Estruturação	Definição da estrutura HTML e planejamento das funcionalidades.	04/12/2024
+- Desenvolvimento do HTML	Criação da estrutura HTML da página, incluindo ingredientes e preparo.	04/12/2024
+- Desenvolvimento do CSS	Estilização da página com as cores azul e verde, e layout responsivo.	04/12/2024
+- Implementação do JavaScript	Criação do arquivo data.js para carregar a receita dinamicamente.	04/12/2024
+- Testes e Ajustes Finais	Testar a responsividade e corrigir erros de layout e funcionalidade.	04/12/2024
+- Documentação e Deploy	Criar o arquivo README.md e finalizar o projeto para publicação.	04/12/2024
 ## Processo de Desenvolvimento
 Durante o desenvolvimento deste projeto, alguns desafios foram encontrados e superados:
 
